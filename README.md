@@ -25,16 +25,16 @@ Passar a pasta src para o projeto criado
 > "Colar a pasta lib no projeto">
 No Intellij
 Abrir o seu projeto
-Files > Project Structure
-Modules > Dependencies
-Selecionar o + (Logo abaixo de Module SDK)
-Selecionar JARs or DIrectories
-Selecionar o projeto atual
-Abrir a pasta lib
-Selecionar o drive MySQL Connector (.jar)
-Dar OK
-Marcar a caixinha do drive
-Aplicar e dar OK
+> Files > Project Structure
+> Modules > Dependencies
+- Selecionar o + (Logo abaixo de Module SDK)
+- Selecionar JARs or DIrectories
+- Selecionar o projeto atual
+- Abrir a pasta lib
+- Selecionar o drive MySQL Connector (.jar)
+- Dar OK
+- Marcar a caixinha do drive
+- Aplicar e dar OK
 
 ===root/Buca@2409===
 Abrir o MySQL Workbench

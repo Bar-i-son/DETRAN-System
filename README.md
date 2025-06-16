@@ -37,9 +37,11 @@ Abrir o seu projeto
 - Aplicar e dar OK
 
 ===root/Buca@2409===
+
 Abrir o MySQL Workbench
 Criar uma conexão
 Criar as tabelas com dados já salvos(códigos no .zip)
+
 ===root/Buca@2409===
 
 Executar main.java

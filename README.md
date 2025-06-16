@@ -10,6 +10,7 @@ Tem o driver JDBC
 =========================================================
 
 Descompactar arquivo .zip
+
 Instalar servidor MySQL
 
 

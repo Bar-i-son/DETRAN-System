@@ -14,8 +14,8 @@ Instalar servidor MySQL
 
 
 Abrir o Intellij
-Criar um novo projeto
-Passar a pasta src para o projeto criado
+- Criar um novo projeto
+- Passar a pasta src para o projeto criado
 > Explorador de arquivos > 
 > Disco Local 
 > Usuarios >
@@ -24,7 +24,7 @@ Passar a pasta src para o projeto criado
 > "Selecionar o projeto criado" > 
 > "Colar a pasta lib no projeto">
 No Intellij
-Abrir o seu projeto
+- Abrir o seu projeto
 > Files > Project Structure
 > Modules > Dependencies
 - Selecionar o + (Logo abaixo de Module SDK)
@@ -39,8 +39,8 @@ Abrir o seu projeto
 ===root/Buca@2409===
 
 Abrir o MySQL Workbench
-Criar uma conexão
-Criar as tabelas com dados já salvos(códigos no .zip)
+- Criar uma conexão
+- Criar as tabelas com dados já salvos(códigos no .zip)
 
 ===root/Buca@2409===
 

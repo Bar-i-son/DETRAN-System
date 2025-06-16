@@ -1,5 +1,5 @@
 ========================================================
- + Informações no Final 
+========= + Informações no Final =========
 ========================================================
 Pasta =src=
 Todos os packages e todas as classes do sistema

@@ -51,9 +51,9 @@ Executar main.java
 
 =============================================
 Windows + R
-Escrever services.msc
-Procurar MySQL(80)
-Parar e Iniciar
+- Escrever services.msc
+- Procurar MySQL(80)
+- Parar e Iniciar
 =============================================
 Comando pra excluir todo banco de dados:
 DROP DATABASE IF EXISTS detran;

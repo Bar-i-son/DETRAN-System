@@ -2,10 +2,10 @@
 == + Informações no Final ================
 ========================================================
 Pasta =src=
-Todos os packages e todas as classes do sistema
+- Todos os packages e todas as classes do sistema
 
 Pasta =lib=
-Tem o driver JDBC
+- Tem o driver JDBC
 
 =========================================================
 

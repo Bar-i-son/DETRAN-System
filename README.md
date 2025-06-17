@@ -16,7 +16,8 @@ Instalar servidor MySQL
 
 Abrir o Intellij
 - Criar um novo projeto
-- Passar a pasta src para o projeto criado
+- Criar um Package dentro de src chamado detran 
+- Passar os 4 Packages e a classe main para o dentro do Package detran
 > Explorador de arquivos > 
 > Disco Local 
 > Usuarios >
@@ -36,14 +37,16 @@ No Intellij
 - Dar OK
 - Marcar a caixinha do drive
 - Aplicar e dar OK
+- Abri a classe conexaoSQL
+- Colocar a senha como root
 
-===root/Buca@2409===
+=============================================
 
 Abrir o MySQL Workbench
 - Criar uma conexão
 - Criar as tabelas com dados já salvos(códigos no .zip)
 
-===root/Buca@2409===
+=============================================
 
 Executar main.java
 

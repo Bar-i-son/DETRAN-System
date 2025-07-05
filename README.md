@@ -15,13 +15,15 @@ Abrir o Intellij
 - Criar um novo projeto
 - Criar um Package dentro de src chamado detran 
 - Passar os 4 Packages e a classe main para o dentro do Package detran
-> Explorador de arquivos > 
+
+Abrir o Explorador de Arquivos
 > Disco Local >
 > Usuarios >
 > "Selecionar o usuario" >
 > IdeaProjects > 
 > "Selecionar o projeto criado" > 
-> "Colar a pasta lib no projeto">
+> "Colar a pasta lib no projeto"
+
 No Intellij
 - Abrir o seu projeto
 > Files > Project Structure

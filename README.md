@@ -18,7 +18,7 @@ Abrir o Intellij
 > Explorador de arquivos > 
 > Disco Local 
 > Usuarios >
-> "Selecionar o usuario" 
+> "Selecionar o usuario" >
 > IdeaProjects > 
 > "Selecionar o projeto criado" > 
 > "Colar a pasta lib no projeto">

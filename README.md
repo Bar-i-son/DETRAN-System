@@ -16,7 +16,7 @@ Abrir o Intellij
 - Criar um Package dentro de src chamado detran 
 - Passar os 4 Packages e a classe main para o dentro do Package detran
 > Explorador de arquivos > 
-> Disco Local 
+> Disco Local >
 > Usuarios >
 > "Selecionar o usuario" >
 > IdeaProjects > 

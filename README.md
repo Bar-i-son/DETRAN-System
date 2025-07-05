@@ -29,14 +29,14 @@ No Intellij
 > Files > Project Structure
 > Modules > Dependencies
 - Selecionar o + (Logo abaixo de Module SDK)
-- Selecionar JARs or DIrectories
+- Selecionar JARs or Directories
 - Selecionar o projeto atual
 - Abrir a pasta lib
 - Selecionar o drive MySQL Connector (.jar)
 - Dar OK
 - Marcar a caixinha do drive
 - Aplicar e dar OK
-- Abri a classe conexaoSQL
+- Abrir a classe conexaoSQL
 - Colocar a senha como root
 
 =============================================
@@ -49,15 +49,13 @@ Abrir o MySQL Workbench
 
 Executar main.java
 
-
-
 =============================================
 
 Windows + R
 - Escrever services.msc
 - Procurar MySQL(80)
 - Parar e Iniciar
-- 
+ 
 =============================================
 
 Comando pra excluir todo banco de dados:

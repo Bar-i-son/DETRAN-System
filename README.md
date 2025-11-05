@@ -1,3 +1,35 @@
+Projeto para gerenciamento de veículos inspirado no sistema do Detran
+Integrantes: Pedro Barison, Guilherme Duarte, Davi Barcelos, Eduardo Américo, Lucas Mendes
+
+Escopo dos Testes:
+Cadastrar veiculo - tranferir veiculo - dar baixa em um veiculo
+
+CT01
+- Funcionalidade: Cadastro de veículos
+- Descrição: Validar cadastro de um novo veículo
+- Entrada: Dados do carro e proprietário atual
+- Resultado Esperado: Carro cadastrado e salvo no banco de dados
+- Tipo de Teste: Unitário - Caixa Preta
+
+CT02
+- Funcionalidade: Transferência de veículos
+- Descrição: Fazer a transferência de um veículo para o seu novo proprietário
+- Entrada: Dados do carro e do seu proprietário atual, junto com os dados do novo proprietário
+- Resultado Esperado: Proprietário antigo perde a posse do carro no sistema, e o veículo passa a ser associado ao novo proprietário
+- Tipo de Teste: Unitário - Caixa Preta
+
+CT03
+- Funcionalidade: Dar baixa de um veículo no sistema
+- Descrição: Retirar um veículo do banco de dados do sistema
+- Entrada: Placa do carro
+- Resultado Esperado: O veículo é apagado do banco de dados
+- Tipo de Teste: Unitário - Caixa Preta
+
+
+Nas 3 funcionalidades, iremos testar os valores limites, para verificar quais são aceitos para que o sistema funcione, criando grupos de valores diferentes (ex: CPF com 10, 11 e 12 digitos numéricos e CPF com letras)
+
+=========================================================
+
 Pasta =src=
 - Todos os packages e todas as classes do sistema
 

@@ -75,7 +75,9 @@ No Intellij
 
 Abrir o MySQL Workbench
 - Criar uma conexão
-- Criar as tabelas com dados já salvos(códigos no .zip)
+- Criar as tabelas com dados já salvos
+> comandosSQL >
+> Segundo_comandoSQL
 
 =============================================
 

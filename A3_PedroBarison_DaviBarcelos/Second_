@@ -1,0 +1,8 @@
+USE detran;
+ALTER TABLE transferencias 
+DROP FOREIGN KEY transferencias_ibfk_1;
+ALTER TABLE transferencias 
+ADD CONSTRAINT transferencias_ibfk_1 
+    FOREIGN KEY (id_veiculo) 
+    REFERENCES veiculos(id) 
+    ON DELETE CASCADE;

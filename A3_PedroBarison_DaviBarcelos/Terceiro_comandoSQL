@@ -1,0 +1,2 @@
+USE detran;
+ALTER TABLE proprietarios MODIFY COLUMN cpf VARCHAR(14);

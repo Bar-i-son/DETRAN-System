@@ -77,7 +77,8 @@ Abrir o MySQL Workbench
 - Criar uma conexão
 - Criar as tabelas com dados já salvos
 > comandosSQL >
-> Segundo_comandoSQL
+> Segundo_comandoSQL >
+> Terceiro_comandoSQL
 
 =============================================
 
